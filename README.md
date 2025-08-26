@@ -41,11 +41,7 @@ This submission covers the project overview, website goals, proposed features, d
   - Video Streaming  
 
 # Changelog  
-- Initial project proposal drafted.  
-- Goals, KPIs, and milestones defined.  
-- Current site analysis completed (strengths, weaknesses, improvements).  
-- Proposed redesign features documented.  
-- Technical stack chosen (Next.js, Tailwind CSS, Vercel).  
+- Created Github repo and pushed changes
 
 # References  
 - Hillsdale College, History, n/d. *History*. [online] Available at <https://www.hillsdale.edu/about/history> [Accessed 04 August 2025].  
