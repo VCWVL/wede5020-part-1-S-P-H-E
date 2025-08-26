@@ -27,7 +27,7 @@ This project focuses on redesigning the Hillsdale College online course landing 
 - **Week 7:** Final touches, testing, and deployment.  
 
 # Part 1 Details  
-This submission covers the project overview, website goals, proposed features, design & UX, technical stack, milestones, and budget. Part 2 will focus on implementation details, and Part 3 will provide testing, results, and reflections.  
+Research + basic HTML prototype
 
 # Sitemap  
 - **Home**  
