@@ -41,7 +41,13 @@ Research + basic HTML prototype
   - Video Streaming  
 
 # Changelog  
-- Created Github repo and pushed changes
+- Created GitHub repo and pushed initial changes
+- Updated README multiple times to include research and basic HTML prototype details
+- Added part 1 of project
+- Added new content
+- Made small CSS changes
+- Finalized HTML
+- Miscellaneous updates: zip files, test commits, and deadlines
 
 # References  
 - Hillsdale College, History, n/d. *History*. [online] Available at <https://www.hillsdale.edu/about/history> [Accessed 04 August 2025].  
