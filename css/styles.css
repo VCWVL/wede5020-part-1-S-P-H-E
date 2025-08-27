@@ -145,6 +145,30 @@ article p {
 
 }
 
+.courses {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px
+}
+
+.courses section {
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    gap: 40px;
+    width: 200px;
+    text-align: center;
+}
+
+.courses img {
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
 footer {
     padding-bottom: 20px;
     padding-top: 20px;
