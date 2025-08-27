@@ -41,6 +41,7 @@ Research + basic HTML prototype
   - Video Streaming  
 
 # Changelog  
+### 27/8/2025
 - Created GitHub repo and pushed initial changes
 - Updated README multiple times to include research and basic HTML prototype details
 - Added part 1 of project
@@ -50,5 +51,5 @@ Research + basic HTML prototype
 - Miscellaneous updates: zip files, test commits, and deadlines
 
 # References  
-- Hillsdale College, History, n/d. *History*. [online] Available at <https://www.hillsdale.edu/about/history> [Accessed 04 August 2025].  
-- Hillsdale College, Mission, n/d. *Mission*. [online] Available at <https://www.hillsdale.edu/about/mission> [Accessed 04 August 2025].  
+- Hillsdale College, History, n/d. *History*. [online] Available at <https://www.hillsdale.edu/about/history> [Accessed 26 August 2025].  
+- Hillsdale College, Mission, n/d. *Mission*. [online] Available at <https://www.hillsdale.edu/about/mission> [Accessed 26 August 2025].  
