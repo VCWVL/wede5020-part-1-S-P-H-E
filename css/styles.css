@@ -3,6 +3,15 @@
     padding: 0;
 }
 
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 body {
     padding: 60px;
 }
@@ -23,8 +32,20 @@ nav {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    gap: 10px;
+    gap: 20px;
     text-align: center;
+}
+
+.hero video {
+    border-radius: 25px;
+    box-shadow: 0 0 50px 0 rgba(0, 0, 0, 0.5);
+}
+
+.hero a {
+    background-color: #000;
+    color: #fff;
+    padding: 15px 30px;
+    border-radius: 15px;
 }
 
 .hero h1, .about-us h1, .blog h1, .courses h1, .contact-us h1 {
@@ -42,6 +63,37 @@ nav {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    gap: 20px;
+}
+
+.about-us img {
+    border-radius: 25px;
+    box-shadow: 0 0 50px 0 rgba(0, 0, 0, 0.5);
+}
+
+form {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+form input {
+    width: 500px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #a0a0a0;
+}
+
+form button {
+    background-color: #000;
+    color: #fff;
+    padding: 15px 50px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
 }
 
 .blog {
@@ -50,6 +102,10 @@ nav {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+}
+
+.blog a {
+    color: #3a8fff;
 }
 
 .courses {
@@ -76,9 +132,22 @@ form {
     gap: 10px;
 }
 
+article {
+    width: 500px;
+    padding: 20px;
+    margin: 20px 0;
+    border: 1px solid #a0a0a0;
+    border-radius: 10px;
+}
+
+article p {
+    text-align: left;
+
+}
+
 footer {
-    position: absolute;
     padding-bottom: 20px;
+    padding-top: 20px;
     left: 0;
     bottom: 0;
     width: 100%;
